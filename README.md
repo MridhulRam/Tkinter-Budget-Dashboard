@@ -11,5 +11,5 @@ An interactive desktop application built with Python and Tkinter that analyzes m
 ## How to Run
 1. Clone this repository.
 2. Install the required libraries: `pip install -r requirements.txt`
-3. Place a file named `sample_data.xlsx` in the same folder.
+3. Place the file named `sample_data.xlsx` in the same folder and fill in the appropriate values.
 4. Run `python interactive budget.py`.
